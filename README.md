@@ -683,7 +683,7 @@ Project Kisan was developed as an **AI research and NLP project** with the Educa
 ## 🔗 Project Links
 
 - **Project page:** https://hamdantariq26.github.io/projects/project-kisan
-- **GitHub:** 
+- **GitHub:** https://github.com/HamdanTariq26/Project-Kisan
 
 ---
 
